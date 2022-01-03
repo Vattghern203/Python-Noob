@@ -1,0 +1,6 @@
+algarismo1=input('algarismo1?')
+algarismo2=input('algarismo2?')
+algarismo1=int(algarismo1)
+algarismo2=int(algarismo2)
+soma=(algarismo1+algarismo2)
+print('a soma é:',soma)
